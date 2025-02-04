@@ -1,0 +1,8 @@
+1. git remote add origin <your-repo-URL>
+2. git add .
+3. git commit -m "Initial commit"
+4. git branch -M main
+5. git push -u origin main
+6. git pull origin main --rebase
+7. git push origin main
+8. git push --force origin main
